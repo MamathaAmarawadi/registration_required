@@ -1,0 +1,44 @@
+/* Write your CSS code here */
+.container {
+  padding-left: 20px;
+  display: flex;
+  justify-content: center;
+}
+.center {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.card {
+  background-color: transparent;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  padding: 20px;
+}
+.row {
+  margin-top: 20px;
+  padding: 0px;
+}
+.button-container {
+  margin-top: 10px;
+  text-align: center;
+}
+.btn {
+  background-color: #ea580c;
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+  border-width: 0px;
+}
+.heading {
+  color: #ea580c;
+  text-align: center;
+}
+.input {
+  cursor: pointe;
+}
+.pic {
+  text-align: center;
+}
